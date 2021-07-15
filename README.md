@@ -12,4 +12,5 @@ Bibliotecas utilizadas:
 Criação de gráfico utilizando Dataset.
 
 Fontes de dados: url = 'https://api.covid19api.com/dayone/country/brazil' 
+
 API para criação do gráfico: quickchart.io
